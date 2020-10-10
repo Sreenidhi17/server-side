@@ -1,6 +1,6 @@
 # server-side
 
-## proceudre followed :
+## Information :
 
 - created repo named server side with README.md and gitignore and cloned this repo in my desktop 
 -  created package .json in powershell.
