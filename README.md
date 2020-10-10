@@ -2,5 +2,12 @@
 
 ## proceudre followed :
 
-I created repo named server side with README.md and gitignore and cloned this repo in my desktop and worked with index.js and created package .json in powershell.
-Once I  am done with evrything i ran node index.js in terminal to check and the server was runned. then i committed the repo locally and tried to push but thers something problem with my git push and hence i committed through GitHub
+- created repo named server side with README.md and gitignore and cloned this repo in my desktop 
+-  created package .json in powershell.
+- open the repo with VS code and add index.js
+- node index.js in terminal to check 
+- open browser and check with localhost:30002 
+- html contecnt should display in the port 
+-  commit  the repo locally and push the repo in to cloud
+
+
